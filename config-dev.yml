@@ -1,5 +1,5 @@
 config:
-  info: config-dev-1
+  info: config-dev-2
 spring:
   cloud:
     zookeeper:
